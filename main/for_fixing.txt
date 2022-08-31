@@ -1,0 +1,11 @@
+ 1.applying signin - sign up page to be handeled by the admin
+2.add the page adminPge and  require to log in for
+3.applying login-logout 
+4.exams template
+5.an option to add a feedback whether the question is easy/hard...
+6.post an answer in the same page in questions details - done
+7.when loging if teacher - shows his profile , if user - his answers
+8.admin enters teachers to the system - done
+9.the teacher can review an answer and check the solution
+10.removing reports - its not nessesary - done
+
